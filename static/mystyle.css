@@ -1,0 +1,30 @@
+#col_one {
+	width: 40%;
+	display: inline-block;
+}
+
+#col_two {
+	text-align: left;
+	display: inline-block;
+	width: 50%;
+	vertical-align: top;
+}
+
+#center {
+	margin: 0px auto;
+	width: 80%;
+}
+
+#list {
+	style: list-style-type:none;
+}
+
+body {
+	font-family: Helvetica;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	font-size: 50px;
+}
